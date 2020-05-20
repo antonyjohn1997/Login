@@ -5,10 +5,10 @@ body {
  }
  .container {
     background-color: lawngreen;
-   /* height: 1000px;
-    width:1000px;*/
-    height:auto;
-    width:auto;
+    height: 1000px;
+    width:1000px;
+    /*height:auto;
+    width:auto;*/
    /* top:240px;
     left:140px;*/
     /*top:50%;
